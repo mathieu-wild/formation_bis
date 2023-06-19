@@ -2,4 +2,6 @@
 
 print("coucou")
 
+print("euh")
+
 print("au revoir")
